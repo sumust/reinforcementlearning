@@ -10,14 +10,16 @@ TO BE ADDED
   
 ## Papers
 
-### Theory
+### Policy Gradient Methods
+
+More information on policy gradient methods [here](./deeprl.html)
 
 * Proximal Policy Optimization Algorithms (Schulman et al. 2017) [link](https://arxiv.org/pdf/1707.06347)
 * Trust Region Policy Optimization (Schulman et al. 2015) [link](https://arxiv.org/abs/1502.05477)
 * Algorithms for Inverse Reinforcement Learning (Ng and Russell 2000) [link](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) 
 * Asynchronous Methods for Deep Reinforcement Learning (A2C) (Mnih et al. 2016) [link](https://arxiv.org/pdf/1602.01783) 
-* A3C
-* R^2
+* A3C (Mnih et al. 2016) [link](https://arxiv.org/pdf/1602.01783v2)
+* R^2: Fast Reinforcement Learning via Slow Reinforcement Learning (Duan et al. 2016) [link](https://arxiv.org/pdf/1611.02779)
 * Policy Gradient Methods for Reinforcement Learning with Function Approximation (Sutton et al. 1999) [link](https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)
 * High-Dimensional Continuous Control Using Generalized Advantage Estimation (Schulman et al. 2018) [link](https://arxiv.org/pdf/1506.02438)
 * Equivalence Between Policy Gradients and Soft Q-Learning (Schulman et al. 2016) [link](https://arxiv.org/pdf/1704.06440)
