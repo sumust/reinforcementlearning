@@ -10,7 +10,7 @@ TO BE ADDED
 ## Papers
 
 ### Theory
-* Proximal Policy Optimization Algorithms (Schulman et al. 2017) link](https://arxiv.org/pdf/1707.06347)
+* Proximal Policy Optimization Algorithms (Schulman et al. 2017) [link](https://arxiv.org/pdf/1707.06347)
 * Trust Region Policy Optimization (Schulman et al. 2015) [link](https://arxiv.org/abs/1502.05477)
 * Algorithms for Inverse Reinforcement Learning (Ng and Russell 2000) [link](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) 
 * Asynchronous Methods for Deep Reinforcement Learning (A2C) [link](https://arxiv.org/pdf/1602.01783) (2016)
