@@ -25,7 +25,7 @@ TO BE ADDED
     * Deep Q Networks 
 * Inverse reinforcement learning: Methods that infer the reward function from observed behavior, allowing agents to learn by imitation
 * Reinforcement learning with human feedback (RLHF) [info](./rlhf.html)
-* Evolutionary reinforcement learning [info])(./evolution.html)
+* Evolutionary reinforcement learning [info](./evolution.html)
 
 ## Papers
 
