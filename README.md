@@ -19,8 +19,8 @@ TO BE ADDED
 * A3C
 * R^2
 * Policy Gradient Methods for Reinforcement Learning with Function Approximation (Sutton et al. 1999) [link](https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)
-* High-Diimensional Continuous Control Using Generalized Advantage Estimation [link](https://arxiv.org/pdf/1506.02438)
-* Equivalence Between Policy Gradients and Soft Q-Learning [link](https://arxiv.org/pdf/1704.06440)
+* High-Diimensional Continuous Control Using Generalized Advantage Estimation (Schulman et al. 2018) [link](https://arxiv.org/pdf/1506.02438)
+* Equivalence Between Policy Gradients and Soft Q-Learning (Schulman et al. 2016) [link](https://arxiv.org/pdf/1704.06440)
 * More to be added
 
 ### Deep Reinforcement Learning
@@ -46,6 +46,10 @@ More information on RLHF [here](./rlhf.html)
 * Training language models to follow instructions with human feedback (Ouyang et al. 2022) [paper](https://arxiv.org/abs/2203.02155)
 * Learning to summarize from human feedback (Stiennon et al. 2020) [paper](https://arxiv.org/abs/2009.01325)
 * Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023) [paper](https://arxiv.org/pdf/1706.03741)
+
+### Adversarial RL
+
+TO BE ADDED
 
 ## Resources
 
