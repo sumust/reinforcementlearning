@@ -7,7 +7,26 @@ This site is dedicated to all things reinforcement learning (RL). Here, you'll f
 TO BE ADDED
 * Reinforcement learning (RL) studies an agent acting in an initially unknown environment, learning through trial and error to maximize rewards.
 * Two kinds of methods: model-free and model-based.
-  
+
+## Topics
+
+* Value-based RL
+  * Markov Decision Processes (MDPs): The foundational framework for RL, including states, actions, rewards, and transitions.
+  * Q-learning: A model-free value-based method for learning action-value functions.
+  * Model-Based RL: Techniques that assume a known model or learn a model of the environment.
+    * Value Iteration and Policy Iteration: Dynamic programming methods that use Bellman equations to compute optimal policies, typically under a known environment model.
+* Model free RL:
+  * Policy gradient methods [info](./policygradients.html)
+    * REINFORCE
+    * Actor-Critic Methods
+      * DDPG (Deep Deterministic Policy Gradient)
+      * Advanced policy gradient methods (TRPO, PPO)
+  * Deep reinforcement learning [info](./deeprl.html)
+    * Deep Q Networks 
+* Inverse reinforcement learning: Methods that infer the reward function from observed behavior, allowing agents to learn by imitation
+* Reinforcement learning with human feedback (RLHF) [info](./rlhf.html)
+* Evolutionary reinforcement learning [info])(./evolution.html)
+
 ## Papers
 
 ### Policy Gradient Methods
