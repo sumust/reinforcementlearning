@@ -10,16 +10,16 @@ This site is dedicated to all things reinforcement learning (RL). Here, you'll f
   * Model-based RL: Techniques that assume a known model or learn a model of the environment.
     * Value Iteration and Policy Iteration: Dynamic programming methods that use Bellman equations to compute optimal policies, typically under a known environment model.
 * Model-free RL:
-  * Policy gradient methods [info](./policygradients.html)
+  * [Policy gradient methods](./policygradients.html)
     * REINFORCE
     * Actor-Critic Methods
       * DDPG (Deep Deterministic Policy Gradient)
       * Advanced policy gradient methods (TRPO, PPO)
-  * Deep reinforcement learning [info](./deeprl.html)
-    * Deep Q Networks 
+  * [Deep reinforcement learning](./deeprl.html)
+    * Deep Q Networks (DQNs)
 * Inverse reinforcement learning: Methods that infer the reward function from observed behavior, allowing agents to learn by imitation
-* Reinforcement learning with human feedback (RLHF) [info](./rlhf.html)
-* Evolutionary reinforcement learning [info](./evolution.html)
+* [Reinforcement learning with human feedback (RLHF)](./rlhf.html)
+* [Evolutionary reinforcement learning](./evolution.html)
 
 ## Papers
 
