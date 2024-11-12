@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-This site is dedicated to all things reinforcement learning (RL). Here, you'll find a curated collection of essential resources including  papers, talks, and lectures that cover a wide range of RL concepts and advancements. My goal is to create a comprehensive learning repository for anyone interested in reinforcement learning.
+This site is dedicated to all things reinforcement learning (RL). Here, you'll find a collection of essential resources including papers, talks, and lectures that cover a wide range of RL concepts and advancements. My goal is to create a comprehensive learning repository for anyone interested in reinforcement learning.
 
 ## Introduction/Summary
 
@@ -15,17 +15,17 @@ TO BE ADDED
 * Proximal Policy Optimization Algorithms (Schulman et al. 2017) [link](https://arxiv.org/pdf/1707.06347)
 * Trust Region Policy Optimization (Schulman et al. 2015) [link](https://arxiv.org/abs/1502.05477)
 * Algorithms for Inverse Reinforcement Learning (Ng and Russell 2000) [link](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) 
-* Asynchronous Methods for Deep Reinforcement Learning (A2C) [link](https://arxiv.org/pdf/1602.01783) (2016)
+* Asynchronous Methods for Deep Reinforcement Learning (A2C) (Mnih et al. 2016) [link](https://arxiv.org/pdf/1602.01783) 
 * A3C
 * R^2
 * Policy Gradient Methods for Reinforcement Learning with Function Approximation (Sutton et al. 1999) [link](https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)
 * High-Diimensional Continuous Control Using Generalized Advantage Estimation [link](https://arxiv.org/pdf/1506.02438)
 * Equivalence Between Policy Gradients and Soft Q-Learning [link](https://arxiv.org/pdf/1704.06440)
-* ... 
+* More to be added
 
 ### Deep Reinforcement Learning
 
-More information [here](./deeprl.html)
+More information on deep RL [here](./deeprl.html)
 
 * #Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [link](https://arxiv.org/pdf/1611.04717) 
 * Benchmarking Deep Reinforcement Learning for Continuous Control [link](https://arxiv.org/pdf/1604.06778) / [code](https://github.com/rll/rllab)
@@ -33,13 +33,16 @@ More information [here](./deeprl.html)
 
 ### Evolutionary Reinforcement Learning 
 
-More information [here](./evolution.html)
+More information on evolution [here](./evolution.html)
 
 * Evolution Strategies as a Scalable Alternative to Reinforcement Learning by OpenAI (September 2017) [link](https://arxiv.org/pdf/1703.03864)
 * Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning by Uber (first paper, April 2018) [link](https://arxiv.org/pdf/1712.06567) 
 * Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents by Uber (second paper, October 2018) [link](https://arxiv.org/pdf/1712.06560)
 
 ### Reinforcement Learning with Human Feedback (RLHF)
+
+More information on RLHF [here](./rlhf.html)
+
 * Training language models to follow instructions with human feedback (Ouyang et al. 2022) [paper](https://arxiv.org/abs/2203.02155)
 * Learning to summarize from human feedback (Stiennon et al. 2020) [paper](https://arxiv.org/abs/2009.01325)
 * Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023) [paper](https://arxiv.org/pdf/1706.03741)
