@@ -30,16 +30,16 @@ TO BE ADDED
 * Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents by Uber (second paper, October 2018) [link](https://arxiv.org/pdf/1712.06560)
 
 ### Reinforcement Learning with Human Feedback (RLHF)
-* [Training language models to follow instructions with human feedback (Ouyang et al. 2022)](https://arxiv.org/abs/2203.02155)
-* [Learning to summarize from human feedback (Stiennon et al. 2020)](https://arxiv.org/abs/2009.01325)
-* [Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023)](https://arxiv.org/pdf/1706.03741)
+* Training language models to follow instructions with human feedback (Ouyang et al. 2022) [paper](https://arxiv.org/abs/2203.02155)
+* Learning to summarize from human feedback (Stiennon et al. 2020) [paper](https://arxiv.org/abs/2009.01325)
+* Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023) [paper](https://arxiv.org/pdf/1706.03741)
 
 ## Resources
 
 ### Background
-* David Silver's Reinforcement Learning Course | [website](https://www.davidsilver.uk/teaching/)
-* DeepRL Bootcamp | [website](https://sites.google.com/view/deep-rl-bootcamp)
-* Pieter Abbeel's Foundations of DeepRL series | [playlist](https://www.youtube.com/watch?v=2GwBez0D20A)
+* David Silver's Reinforcement Learning Course [website](https://www.davidsilver.uk/teaching/)
+* DeepRL Bootcamp [website](https://sites.google.com/view/deep-rl-bootcamp)
+* Pieter Abbeel's Foundations of DeepRL series [playlist](https://www.youtube.com/watch?v=2GwBez0D20A)
 * John Schulman's "Deep Reinforcement Learning via Policy Optimization" [lecture](http://joschu.net/docs/2017-rldm.pdf) (2017)
 * John Schulman's RLHF [lecture](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
 
