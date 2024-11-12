@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-This site is dedicated to all things reinforcement learning (RL). Here, you'll find a curated collection of essential resources including foundational papers, insightful talks, and lecture notes that cover a wide range of RL concepts and advancements. My goal is to create a comprehensive learning repository for anyone interested in reinforcement learning.
+This site is dedicated to all things reinforcement learning (RL). Here, you'll find a curated collection of essential resources including  papers, talks, and lectures that cover a wide range of RL concepts and advancements. My goal is to create a comprehensive learning repository for anyone interested in reinforcement learning.
 
 ## Introduction/Summary
 
