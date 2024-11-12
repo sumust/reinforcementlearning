@@ -1,3 +1,5 @@
+# Policy Gradient Methods
+
 Policy gradient methods are a class of algorithms in reinforcement learning that aim to optimize the policy directly by following the gradient of expected rewards with respect to the policy parameters. 
 
 ## Actor-Critic Methods
