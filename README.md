@@ -52,8 +52,8 @@ More information on evolution [here](./evolution.html)
 
 * Evolution Strategies as a Scalable Alternative to Reinforcement Learning by OpenAI (September 2017) [link](https://arxiv.org/pdf/1703.03864)
 * Uber Deep Neuroevolution [code](https://github.com/uber-research/deep-neuroevolution?uclick_id=b2d35630-373d-4a27-b230-9268a32455b5)
- * Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning by Uber (first paper, April 2018) [link](https://arxiv.org/pdf/1712.06567) 
- * Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents by Uber (second paper, October 2018) [link](https://arxiv.org/pdf/1712.06560)
+  * Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning by Uber (first paper, April 2018) [link](https://arxiv.org/pdf/1712.06567)
+  * Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents by Uber (second paper, October 2018) [link](https://arxiv.org/pdf/1712.06560)
 
 ### Reinforcement Learning with Human Feedback (RLHF)
 
