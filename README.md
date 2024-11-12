@@ -12,7 +12,7 @@ TO BE ADDED
 
 ### Policy Gradient Methods
 
-More information on policy gradient methods [here](./deeprl.html)
+More information on policy gradient methods [here](./policygradients.html)
 
 * Proximal Policy Optimization Algorithms (Schulman et al. 2017) [link](https://arxiv.org/pdf/1707.06347)
 * Trust Region Policy Optimization (Schulman et al. 2015) [link](https://arxiv.org/abs/1502.05477)
