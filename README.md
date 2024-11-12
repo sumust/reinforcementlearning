@@ -45,7 +45,7 @@ TO BE ADDED
 
 ### Recent Advances in RL
 * ICML "Reinforcement Learning at the Hyperscale" [talk](https://slideslive.com/39022179/reinforcement-learning-at-the-hyperscale) (2024)
-* JaxMARL paper
-* JaxRL paper / [code](https://github.com/ikostrikov/jaxrl)
+* JaxRL [code](https://github.com/ikostrikov/jaxrl)
+* JaxMARL [paper](https://arxiv.org/abs/2311.10090) / [code](https://github.com/ikostrikov/jaxrl)
 * Uber Deep Neuroevolution [code](https://github.com/uber-research/deep-neuroevolution?uclick_id=b2d35630-373d-4a27-b230-9268a32455b5)
 
