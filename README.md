@@ -1,15 +1,17 @@
 # Reinforcement Learning
 
+This site is dedicated to all things reinforcement learning (RL). Here, you'll find a curated collection of essential resources including foundational papers, insightful talks, and lecture notes that cover a wide range of RL concepts and advancements. My goal is to create a comprehensive learning repository for anyone interested in reinforcement learning.
+
 ## Introduction/Summary
 
 TO BE ADDED
 * Reinforcement learning (RL) studies an agent acting in an initially unknown environment, learning through trial and error to maximize rewards.
 * Two kinds of methods: model-free and model-based.
-* [Test link to another page](./deeprl.html)
   
 ## Papers
 
 ### Theory
+
 * Proximal Policy Optimization Algorithms (Schulman et al. 2017) [link](https://arxiv.org/pdf/1707.06347)
 * Trust Region Policy Optimization (Schulman et al. 2015) [link](https://arxiv.org/abs/1502.05477)
 * Algorithms for Inverse Reinforcement Learning (Ng and Russell 2000) [link](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) 
@@ -22,11 +24,17 @@ TO BE ADDED
 * ... 
 
 ### Deep Reinforcement Learning
+
+More information [here](./deeprl.html)
+
 * #Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [link](https://arxiv.org/pdf/1611.04717) 
 * Benchmarking Deep Reinforcement Learning for Continuous Control [link](https://arxiv.org/pdf/1604.06778) / [code](https://github.com/rll/rllab)
 * MuJoCo: A physics engine for model-based control [link](https://homes.cs.washington.edu/~todorov/papers/TodorovIROS12.pdf)
 
 ### Evolutionary Reinforcement Learning 
+
+More information [here](./evolution.html)
+
 * Evolution Strategies as a Scalable Alternative to Reinforcement Learning by OpenAI (September 2017) [link](https://arxiv.org/pdf/1703.03864)
 * Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning by Uber (first paper, April 2018) [link](https://arxiv.org/pdf/1712.06567) 
 * Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents by Uber (second paper, October 2018) [link](https://arxiv.org/pdf/1712.06560)
