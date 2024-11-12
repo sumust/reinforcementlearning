@@ -63,19 +63,18 @@ More information on RLHF [here](./rlhf.html)
 * Learning to summarize from human feedback (Stiennon et al. 2020) [paper](https://arxiv.org/abs/2009.01325)
 * Deep Reinforcement Learning from Human Preferences (Christiano et al. 2023) [paper](https://arxiv.org/pdf/1706.03741)
 
-### Adversarial RL
-
-TO BE ADDED
-
 ## Resources
 
-### Background
+### Background Material
 * David Silver's Reinforcement Learning Course [website](https://www.davidsilver.uk/teaching/)
 * DeepRL Bootcamp [website](https://sites.google.com/view/deep-rl-bootcamp)
 * Pieter Abbeel's "Foundations of DeepRL" series [playlist](https://www.youtube.com/watch?v=2GwBez0D20A)
 * John Schulman's "Deep Reinforcement Learning via Policy Optimization" [lecture](http://joschu.net/docs/2017-rldm.pdf) (2017)
 * John Schulman's RLHF [lecture](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
-* Abbeel's Inverse RL [lecture](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf) 
+* Abbeel's Inverse RL [lecture](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf)
+
+### Articles
+TO BE ADDED
 
 ### Recent Advancements in RL
 * ICML "Reinforcement Learning at the Hyperscale" [talk](https://slideslive.com/39022179/reinforcement-learning-at-the-hyperscale) (2024)
