@@ -51,8 +51,9 @@ More information on deep RL [here](./deeprl.html)
 More information on evolution [here](./evolution.html)
 
 * Evolution Strategies as a Scalable Alternative to Reinforcement Learning by OpenAI (September 2017) [link](https://arxiv.org/pdf/1703.03864)
-* Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning by Uber (first paper, April 2018) [link](https://arxiv.org/pdf/1712.06567) 
-* Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents by Uber (second paper, October 2018) [link](https://arxiv.org/pdf/1712.06560)
+* Uber Deep Neuroevolution [code](https://github.com/uber-research/deep-neuroevolution?uclick_id=b2d35630-373d-4a27-b230-9268a32455b5)
+ * Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning by Uber (first paper, April 2018) [link](https://arxiv.org/pdf/1712.06567) 
+ * Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents by Uber (second paper, October 2018) [link](https://arxiv.org/pdf/1712.06560)
 
 ### Reinforcement Learning with Human Feedback (RLHF)
 
@@ -71,14 +72,12 @@ TO BE ADDED
 ### Background
 * David Silver's Reinforcement Learning Course [website](https://www.davidsilver.uk/teaching/)
 * DeepRL Bootcamp [website](https://sites.google.com/view/deep-rl-bootcamp)
-* Pieter Abbeel's Foundations of DeepRL series [playlist](https://www.youtube.com/watch?v=2GwBez0D20A)
+* Pieter Abbeel's "Foundations of DeepRL" series [playlist](https://www.youtube.com/watch?v=2GwBez0D20A)
 * John Schulman's "Deep Reinforcement Learning via Policy Optimization" [lecture](http://joschu.net/docs/2017-rldm.pdf) (2017)
 * John Schulman's RLHF [lecture](https://www.youtube.com/watch?v=hhiLw5Q_UFg) (2023)
 * Abbeel's Inverse RL [lecture](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf) 
 
-### Recent Advances in RL
+### Recent Advancements in RL
 * ICML "Reinforcement Learning at the Hyperscale" [talk](https://slideslive.com/39022179/reinforcement-learning-at-the-hyperscale) (2024)
 * JaxRL [code](https://github.com/ikostrikov/jaxrl)
 * JaxMARL [paper](https://arxiv.org/abs/2311.10090) / [code](https://github.com/ikostrikov/jaxrl)
-* Uber Deep Neuroevolution [code](https://github.com/uber-research/deep-neuroevolution?uclick_id=b2d35630-373d-4a27-b230-9268a32455b5)
-
