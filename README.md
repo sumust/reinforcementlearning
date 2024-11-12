@@ -19,7 +19,7 @@ TO BE ADDED
 * A3C
 * R^2
 * Policy Gradient Methods for Reinforcement Learning with Function Approximation (Sutton et al. 1999) [link](https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)
-* High-Diimensional Continuous Control Using Generalized Advantage Estimation (Schulman et al. 2018) [link](https://arxiv.org/pdf/1506.02438)
+* High-Dimensional Continuous Control Using Generalized Advantage Estimation (Schulman et al. 2018) [link](https://arxiv.org/pdf/1506.02438)
 * Equivalence Between Policy Gradients and Soft Q-Learning (Schulman et al. 2016) [link](https://arxiv.org/pdf/1704.06440)
 * More to be added
 
