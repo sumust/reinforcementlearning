@@ -3,8 +3,8 @@
 A repo dedicated to all things reinforcement learning (RL). Here, you'll find a collection of essential resources including papers, talks, lectures and code.
 (maintained by Zelal "Lain" Mustafaoglu)
 
-* [Deep RL in a Nutshell](./drlinanutshell.md) - COMING SOON
 * [Applications of Deep RL](./drlapplications.md)
+* [Deep RL in a Nutshell (coming soon)](./drlinanutshell.md) 
 
 ## Topics
 
@@ -36,6 +36,10 @@ A repo dedicated to all things reinforcement learning (RL). Here, you'll find a 
 
 ## Papers
 
+### Deep Reinforcement Learning
+
+More information on deep RL [here](./deeprl.html)
+
 ### Policy Gradient Methods
 
 More information on policy gradient methods [here](./policygradients.html)
@@ -51,9 +55,7 @@ More information on policy gradient methods [here](./policygradients.html)
 * Equivalence Between Policy Gradients and Soft Q-Learning (Schulman et al. 2016) [link](https://arxiv.org/pdf/1704.06440)
 * More to be added
 
-### Deep Reinforcement Learning
-
-More information on deep RL [here](./deeprl.html)
+### Miscallenous Papers
 
 * #Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning [link](https://arxiv.org/pdf/1611.04717) 
 * Benchmarking Deep Reinforcement Learning for Continuous Control [link](https://arxiv.org/pdf/1604.06778) / [code](https://github.com/rll/rllab)
