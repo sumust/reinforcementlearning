@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Reinforcement Learning Hub
 
 A repo dedicated to all things reinforcement learning (RL). Here, you'll find a collection of essential resources including papers, talks, lectures and code.
 (maintained by Zelal "Lain" Mustafaoglu)
