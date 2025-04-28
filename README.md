@@ -3,8 +3,8 @@
 A repo dedicated to all things reinforcement learning (RL). Here, you'll find a collection of essential resources including papers, talks, lectures and code.
 (maintained by Zelal "Lain" Mustafaoglu)
 
-* [Deep RL in a Nutshell](./drlinanutshell.html) - COMING SOON
-* [Applications of Deep RL](./drlapplications.html)
+* [Deep RL in a Nutshell](./drlinanutshell.md) - COMING SOON
+* [Applications of Deep RL](./drlapplications.md)
 
 ## Topics
 
